@@ -1,0 +1,21 @@
+COMMAND    PID     USER   FD   TYPE DEVICE SIZE/OFF NODE NAME
+dhclient  2028     root    5u  IPv4   8899      0t0  UDP *:bootpc 
+rpcbind   2141      rpc    6u  IPv4   9223      0t0  UDP *:sunrpc 
+rpcbind   2141      rpc    7u  IPv4   9224      0t0  UDP *:sco-websrvrmgr 
+rpcbind   2141      rpc    8u  IPv4   9225      0t0  TCP *:sunrpc (LISTEN)
+rpcbind   2141      rpc    9u  IPv6   9226      0t0  UDP *:sunrpc 
+rpcbind   2141      rpc   10u  IPv6   9227      0t0  UDP *:sco-websrvrmgr 
+rpcbind   2141      rpc   11u  IPv6   9228      0t0  TCP *:sunrpc (LISTEN)
+rpc.statd 2162  rpcuser    7u  IPv4   9320      0t0  UDP *:59377 
+rpc.statd 2162  rpcuser    8u  IPv4   9323      0t0  TCP *:50742 (LISTEN)
+rpc.statd 2162  rpcuser    9u  IPv6   9326      0t0  UDP *:36737 
+rpc.statd 2162  rpcuser   10u  IPv6   9329      0t0  TCP *:57073 (LISTEN)
+rpc.statd 2162  rpcuser   23u  IPv4   9317      0t0  UDP localhost:659 
+sshd      2380     root    3u  IPv4   9927      0t0  TCP *:ssh (LISTEN)
+sshd      2380     root    4u  IPv6   9929      0t0  TCP *:ssh (LISTEN)
+ntpd      2409      ntp   16u  IPv4  10003      0t0  UDP *:ntp 
+ntpd      2409      ntp   17u  IPv4  10007      0t0  UDP localhost:ntp 
+ntpd      2409      ntp   18u  IPv4  10008      0t0  UDP ip-10-0-5-251.us-west-2.compute.internal:ntp 
+sendmail  2429     root    4u  IPv4  10077      0t0  TCP localhost:smtp (LISTEN)
+sshd      2528     root    3u  IPv4  10374      0t0  TCP ip-10-0-5-251.us-west-2.compute.internal:ssh->c-67-169-192-9.hsd1.or.comcast.net:61441 (ESTABLISHED)
+sshd      2530 ec2-user    3u  IPv4  10374      0t0  TCP ip-10-0-5-251.us-west-2.compute.internal:ssh->c-67-169-192-9.hsd1.or.comcast.net:61441 (ESTABLISHED)
