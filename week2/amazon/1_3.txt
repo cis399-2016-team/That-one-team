@@ -1,0 +1,4 @@
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/xvda1       8123812 1210468   6813096  16% /
+devtmpfs          243056      56    243000   1% /dev
+tmpfs             251632       0    251632   0% /dev/shm
