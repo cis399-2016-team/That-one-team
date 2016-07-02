@@ -1,0 +1,2 @@
+Loaded plugins: amazon-id, rhui-lb, search-disabled-repos
+No packages marked for update
