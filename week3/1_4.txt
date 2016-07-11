@@ -1,0 +1,7 @@
+[0;32minfo: Caching catalog for ip-10-0-5-251.us-west-2.compute.internal[0m
+[0;32minfo: Applying configuration version '1468270892'[0m
+[0;36mnotice: /Stage[main]/Sshd/Ssh_authorized_key[eewing-key-pair]/ensure: created[0m
+[0;36mnotice: /Stage[main]/Sshd/Ssh_authorized_key[mike@mike-arch]/ensure: created[0m
+[0;36mnotice: /Stage[main]/Sshd/Ssh_authorized_key[Quentillionaire@FINN]/ensure: created[0m
+[0;36mnotice: /Stage[main]/Sshd/Ssh_authorized_key[Quent@DESKTOP-ER46L4L]/ensure: created[0m
+[0;36mnotice: Finished catalog run in 0.23 seconds[0m
