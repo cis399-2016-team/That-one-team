@@ -1,0 +1,7 @@
+Amazon instance id: i-00ba38dd
+Panda instance id: i-87ab295a
+Eewing instance id: 1-6ba527b6
+
+Amazon Private IP: 10.0.5.251
+Panda Private IP: 10.0.5.182
+Eewing Private IP: 10.0.5.71
