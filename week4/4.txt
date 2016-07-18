@@ -1,0 +1,9 @@
+Both on:
+retrieve index set by puppet
+
+Panda/Amazon off:
+due to load balancer, the apparent webpage is the same, even though panda is shut off.  This is precisely what load balancing and traffic managing is.
+
+
+Both off:
+Timeout 
