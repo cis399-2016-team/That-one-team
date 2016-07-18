@@ -1,0 +1,9 @@
+http://panda-eewing-1355328233.us-west-2.elb.amazonaws.com/foo.html
+
+Amazon Instance: 
+IP: 52.37.184.59
+DNS: ec2-52-37-184-59.us-west-2.compute.amazonaws.com
+
+Panda Instance:
+IP: 52.37.94.114
+DNS: ec2-52-37-94-114.us-west-2.compute.amazonaws.com
