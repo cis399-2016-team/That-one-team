@@ -1,0 +1,13 @@
+File 
+---------------------------
+https://github.com/cis399-2016-team/That-one-team-puppet/tree/master/modules/apache/files/html
+
+
+Puppet Module:
+----------------------
+file { "/var/www/html":
+        source  => ["puppet:///modules/apache/html"],
+        mode    => 644,
+        recurse => true,
+    }
+
