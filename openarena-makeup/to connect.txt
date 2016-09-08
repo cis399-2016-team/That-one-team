@@ -1,0 +1,5 @@
+I put your ssh key in the authorized keys
+
+ssh ubuntu@ec2-52-33-173-96.us-west-2.compute.amazonaws.com
+
+ssh ubuntu@ec2-52-42-180-125.us-west-2.compute.amazonaws.com
